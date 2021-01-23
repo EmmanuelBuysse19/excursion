@@ -7,9 +7,9 @@ h1 {
 }
 .excursion {
     color: aquamarine;
+    font-weight: bold;
     display: block;
     text-align: center;
-    font-weight: bold;
 }
 p {
     color: grey;
@@ -17,8 +17,10 @@ p {
 }
 .phone {
     padding-top: 2em;
-    padding-bottom: 3em;
+    padding-bottom: 2em;
 }
 p.footer {
     text-align: right;
 }
+
+
