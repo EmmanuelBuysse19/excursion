@@ -10,5 +10,15 @@ h1 {
     display: block;
     text-align: center;
     font-weight: bold;
-
+}
+p {
+    color: grey;
+    font-size: 25px;
+}
+.phone {
+    padding-top: 2em;
+    padding-bottom: 3em;
+}
+p.footer {
+    text-align: right;
 }
